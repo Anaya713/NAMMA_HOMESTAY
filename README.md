@@ -18,3 +18,4 @@ NammaHomeStay is a modern homestay booking platform designed to help users disco
 Project Objective
 
 The objective of NammaHomeStay is to simplify the process of finding and booking homestays while providing hosts with an easy way to showcase their properties. The platform aims to deliver a seamless digital experience for travelers.
+<img width="474" height="426" alt="image" src="https://github.com/user-attachments/assets/3358dc9f-eed1-4619-af47-9d46585cbf50" />
